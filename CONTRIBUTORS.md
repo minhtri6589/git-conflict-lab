@@ -1,2 +1,3 @@
-# Contributors for the project:
-Minh Huynh
+# Project COntributors
+* [Minh Huynh]
+* Minh Huynh
